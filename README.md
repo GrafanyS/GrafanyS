@@ -19,18 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python
-===========
 
-
-
-.. image:: https://d322cqt584bo4o.cloudfront.net/flask-admin/localized.svg
-	:target: https://crowdin.com/project/flask-admin
-
-.. image:: https://github.com/flask-admin/flask-admin/actions/workflows/test.yaml/badge.svg
-	:target: https://github.com/flask-admin/flask-admin/actions/workflows/test.yaml
-
-
-
-------------
 
